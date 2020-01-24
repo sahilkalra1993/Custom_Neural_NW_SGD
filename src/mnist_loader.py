@@ -14,7 +14,7 @@ function usually called by our neural network code.
 
 #### Libraries
 # Standard library
-import pickle
+import cPickle
 import gzip
 
 # Third-party libraries
